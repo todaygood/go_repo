@@ -10,7 +10,7 @@ func main() {
 	s := "hello" //字符串
 	cp := 3 + 2i //复数
 
-	//i := [3]int{1, 2, 3} //数组
+	iArray := [3]int{1, 2, 3} //数组
 
-	fmt.Println(b, i, f, c, s, cp, i)
+	fmt.Println(b, i, f, c, s, cp, iArray)
 }
