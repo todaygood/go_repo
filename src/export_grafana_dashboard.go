@@ -15,9 +15,21 @@ func main() {
 func run() int {
 	host := "grafana.example.com"
 	auth := os.Getenv("GF_AUTH")
+
+    file,err := os.Create("export_grafana_dashboard.log")
+	if err != nil {
+		panic("Failed to create log file")
+	}
+
+
+	logger := log.New(file,"",log.LstdFlags | log.Llongfile) 
+	logger.Println("1.Println log with log.LstdFlags ...")
+	logger.Println("2.Println log with log.LstdFlags ...")
+
 	if len(auth) == 0 {
-		log.Printf("[ERROR] Set GF_AUTH")
-		return 1
+		//log.Printf("[ERROR] Set GF_AUTH")
+		//return 1
+		log.Fatal("[ERROR] Set GF_AUTH")
 	}
 
 	client := http.DefaultClient

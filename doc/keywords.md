@@ -1,14 +1,9 @@
 # DataType
+struct,map
 
-int 
-int64
+const,var 
 
-struct 
 
-nil 
-string
-
-byte
 interface
 
 Types:
@@ -22,7 +17,7 @@ Constants:
 Zero value:
 	nil
 
-Functions:
+# Functions:
 	append cap close complex copy delete imag len
 	make new panic print println real recover
 
@@ -30,6 +25,8 @@ Functions:
 
 # condition
 if , else , 
+
+select
 
 
 # package management
