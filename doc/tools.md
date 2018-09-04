@@ -17,4 +17,23 @@ name: golang
 
 ```
 
+# IDE
+
+学习一门语言，在开始做大项目之前不要使用IDE。 
+
+目前golang最好的，免费的IDE就是 VScode, 感觉还是在Ubuntu图形界面下用VScode比较好一些，如调试k8s代码
+
+https://colobu.com/2016/04/21/use-vscode-to-develop-go-programs/
+
+https://code.visualstudio.com/docs/languages/go
+
+## VScode中使用proxy
+
+ settings.json
+ // VSCode: Place your settings in this file to overwrite the default settings
+ {
+   "http.proxy": "http://user:pass@proxy.com:8080",
+   "https.proxy": "http://user:pass@proxy.com:8080",
+   "http.proxyStrictSSL": false
+ }
 
