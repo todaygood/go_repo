@@ -9,7 +9,6 @@ import (
 
 func main() {
 	url := "http://www.baidu.com"
-
 	httpGet(url)
 }
 
@@ -19,7 +18,7 @@ func httpGet(url string) {
 		// handle error
 		log.Fatalln("Error http.Get")
 	}
-
+	fmt.Println()
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
