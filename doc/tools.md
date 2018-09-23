@@ -37,3 +37,10 @@ https://code.visualstudio.com/docs/languages/go
    "http.proxyStrictSSL": false
  }
 
+# go debug 
+
+delve 比gdb好，更理解goroutine
+
+http://lday.me/2017/02/27/0005_gdb-vs-dlv/
+
+

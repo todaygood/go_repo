@@ -15,3 +15,7 @@ func main(){
 }
 
 
+/*
+	利用 interface{}进行类型转换
+*/
+
