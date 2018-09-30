@@ -93,6 +93,8 @@ vim 进入命令模式
 
 [我的vimrc](https://github.com/todaygood/my-backup/blob/master/vimrc_for_go_python)
 
+如有更多的功能需求，可参见[这个vimrc](https://github.com/1046102779/goide/blob/master/.vimrc)
+
 # Refer docs 
 
 [vim-as-ide](https://github.com/yangyangwithgnu/use_vim_as_ide)
