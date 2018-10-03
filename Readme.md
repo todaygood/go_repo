@@ -7,7 +7,9 @@ export GOPATH=/root/go_repo/
 
 2.  ./program 
 
+# How to publish your code? 
 
+https://golang.org/doc/code.html
 
 # golang语法速查手册
 
