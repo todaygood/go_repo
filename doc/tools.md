@@ -16,6 +16,9 @@ port: 8087
 name: golang
 
 ```
+# 阅读代码用source insight 
+
+python,go,C等语言，阅读代码用source insight比较好用。
 
 # IDE
 

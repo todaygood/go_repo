@@ -5,7 +5,15 @@
 https://www.kancloud.cn/liupengjie/go/570005
 
 # 《Go basic》
+
+## level 1 基本语法
 https://github.com/Unknwon/go-fundamental-programming
+
+## level 2 基本库  <Go语言圣经>
+https://books.studygolang.com/gopl-zh/
+
+https://go.wuhaolin.cn/the-way-to-go/
+
 
 # 《Go名库讲解》
 https://github.com/Unknwon/go-rock-libraries-showcases
@@ -36,5 +44,9 @@ https://github.com/Unknwon/go-study-index
 
 https://golangbot.com/
 
+
+# 高级 <Go语言高级编程(Advanced Go Programming)>
+
+https://chai2010.cn/advanced-go-programming-book/
 
 
