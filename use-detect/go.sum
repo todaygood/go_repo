@@ -1,0 +1,8 @@
+github.com/todaygood/detect-kernel v0.0.0-20210101082322-3e32e88e7fb7 h1:X0jx7ZhP9CIcu8YtRrYT3KtTpljzPwvMs3laAXJdYz8=
+github.com/todaygood/detect-kernel v0.0.0-20210101082322-3e32e88e7fb7/go.mod h1:LTptkJhe5Svr2rwiVvGIHCwsfCxzkqn1VQlR5vz8eXw=
+github.com/todaygood/detect-kernel v0.0.0-20210101083121-f1c4a04be428 h1:SBRtQhVNfjpIRVdHEl6nf8I+n+m8S+Rlh0e32lSsZvU=
+github.com/todaygood/detect-kernel v0.0.0-20210101083121-f1c4a04be428/go.mod h1:LTptkJhe5Svr2rwiVvGIHCwsfCxzkqn1VQlR5vz8eXw=
+github.com/todaygood/detect-kernel v0.0.0-20210101114202-3cfcfb02f5dd h1:TMDNSS4yk6HcPIiVKXdVQMCKVx8kYeUlb+7nHs9A/RA=
+github.com/todaygood/detect-kernel v0.0.0-20210101114202-3cfcfb02f5dd/go.mod h1:LTptkJhe5Svr2rwiVvGIHCwsfCxzkqn1VQlR5vz8eXw=
+golang.org/x/sys v0.0.0-20201231184435-2d18734c6014 h1:joucsQqXmyBVxViHCPFjG3hx8JzIFSaym3l3MM/Jsdg=
+golang.org/x/sys v0.0.0-20201231184435-2d18734c6014/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
